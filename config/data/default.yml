@@ -1,0 +1,10 @@
+#checkout_page:
+#  name: Cheezy
+#  address: 12 Main street
+#  email: cheezy@example.com
+#  pay_type: Check
+checkout_page:
+  name: ~full_name
+  address: ~street_address
+  email: ~email_address
+  pay_type: Check
